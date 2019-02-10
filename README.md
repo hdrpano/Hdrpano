@@ -1,3 +1,5 @@
+![swift 4.2](https://img.shields.io/badge/swift-4.2-green.svg) ![platform iOS](https://img.shields.io/badge/platform-iOS-lightgrey.svg) ![pod 1.0.6](https://img.shields.io/badge/pod-1.0.6-blue.svg) ![DJI SDK 4.8](https://img.shields.io/badge/DJI%20SDK-4.8-blue.svg) ![DJI DUX SDK 4.8](https://img.shields.io/badge/DJI%20DUX%20SDK-4.8-blue.svg) ![license MIT](https://img.shields.io/badge/license-MIT-green.svg)
+
 # DUX-iOS from hdrpano
 
 ## What is this?
