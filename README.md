@@ -1,4 +1,4 @@
-![swift 5.0](https://img.shields.io/badge/swift-5.0-green.svg) ![platform iOS](https://img.shields.io/badge/platform-iOS-lightgrey.svg) ![pod 1.0.7](https://img.shields.io/badge/pod-1.0.7-blue.svg) ![DJI SDK 4.9.1](https://img.shields.io/badge/DJI%20SDK-4.9.1-blue.svg) ![DJI DUX SDK 4.9](https://img.shields.io/badge/DJI%20DUX%20SDK-4.9-blue.svg) ![license MIT](https://img.shields.io/badge/license-MIT-green.svg) ![Aircrafts](https://img.shields.io/badge/Aircrafts-Inspire%20%7C%20Matrice%20%7C%20Mavic%20%7C%20Phantom%20%7C%20Spark-lightgrey.svg)
+![swift 5.0](https://img.shields.io/badge/swift-5.0-green.svg) ![platform iOS](https://img.shields.io/badge/platform-iOS-lightgrey.svg) ![pod 1.1.0](https://img.shields.io/badge/pod-1.1.0-blue.svg) ![DJI SDK 4.10](https://img.shields.io/badge/DJI%20SDK-4.10-blue.svg) ![DJI DUX SDK 4.10](https://img.shields.io/badge/DJI%20DUX%20SDK-4.10-blue.svg) ![license MIT](https://img.shields.io/badge/license-MIT-green.svg) ![Aircrafts](https://img.shields.io/badge/Aircrafts-Inspire%20%7C%20Matrice%20%7C%20Mavic%20%7C%20Phantom%20%7C%20Spark-lightgrey.svg)
 
 # DUX-iOS from hdrpano
 
@@ -85,9 +85,9 @@ If you install it successfully, you should get the messages similar to the follo
 
     Analyzing dependencies
     Downloading dependencies
-    Installing Hdrpano (1.0.7)
-    Installing DJI-SDK-iOS (4.9.1)
-    Installing DJI-UXSDK-iOS (4.9)
+    Installing Hdrpano (1.1.0)
+    Installing DJI-SDK-iOS (4.10)
+    Installing DJI-UXSDK-iOS (4.10)
     Installing DJIWidget (1.5)
     Generating Pods project
     Integrating client project
@@ -168,6 +168,9 @@ In addition, with *resume* we can continue the mission.
     DJISDKManager.missionControl()?.unscheduleEverything()
 
 With *stop* and *unschedule* we can stop the mission and clean the stack of the mission control.
+
+## Photogrammetry
+I implemented the 3D photogrammetry algorithm to this framework.
 
 ## DJI SDK updates
 If you update the DJI SDK with pod install the Hdrpano framework will always use this latest version. The Hdrpano framework needs only an update if the DJI SDK add new functions. 
