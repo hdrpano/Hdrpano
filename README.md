@@ -85,9 +85,9 @@ If you install it successfully, you should get the messages similar to the follo
 
     Analyzing dependencies
     Downloading dependencies
-    Installing Hdrpano (1.0.7)
-    Installing DJI-SDK-iOS (4.9.1)
-    Installing DJI-UXSDK-iOS (4.9)
+    Installing Hdrpano (1.1.0)
+    Installing DJI-SDK-iOS (4.10)
+    Installing DJI-UXSDK-iOS (4.10)
     Installing DJIWidget (1.5)
     Generating Pods project
     Integrating client project
@@ -168,6 +168,9 @@ In addition, with *resume* we can continue the mission.
     DJISDKManager.missionControl()?.unscheduleEverything()
 
 With *stop* and *unschedule* we can stop the mission and clean the stack of the mission control.
+
+## Photogrammetry
+I implemented the 3D photogrammetry algorithm to this framework.
 
 ## DJI SDK updates
 If you update the DJI SDK with pod install the Hdrpano framework will always use this latest version. The Hdrpano framework needs only an update if the DJI SDK add new functions. 
