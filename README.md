@@ -1,4 +1,4 @@
-![swift 5.0](https://img.shields.io/badge/swift-5.0-green.svg) ![platform iOS](https://img.shields.io/badge/platform-iOS-lightgrey.svg) ![pod 1.1.0](https://img.shields.io/badge/pod-1.1.0-blue.svg) ![DJI SDK 4.10](https://img.shields.io/badge/DJI%20SDK-4.10-blue.svg) ![DJI DUX SDK 4.10](https://img.shields.io/badge/DJI%20DUX%20SDK-4.10-blue.svg) ![license MIT](https://img.shields.io/badge/license-MIT-green.svg) ![Aircrafts](https://img.shields.io/badge/Aircrafts-Inspire%20%7C%20Matrice%20%7C%20Mavic%20%7C%20Phantom%20%7C%20Spark-lightgrey.svg)
+![swift 5.0](https://img.shields.io/badge/swift-5.0-green.svg) ![platform iOS](https://img.shields.io/badge/platform-iOS-lightgrey.svg) ![pod 1.1.7](https://img.shields.io/badge/pod-1.1.7-blue.svg) ![DJI SDK 4.11](https://img.shields.io/badge/DJI%20SDK-4.11-blue.svg) ![DJI DUX SDK 4.11](https://img.shields.io/badge/DJI%20DUX%20SDK-4.11-blue.svg) ![license MIT](https://img.shields.io/badge/license-MIT-green.svg) ![Aircrafts](https://img.shields.io/badge/Aircrafts-Inspire%20%7C%20Matrice%20%7C%20Mavic%20%7C%20Phantom%20%7C%20Spark-lightgrey.svg)
 
 # DUX-iOS from hdrpano
 
@@ -10,7 +10,7 @@ DJI-SDK-iOS
 DJI-UXSDK-iOS 
 DJIWidget 
 
-This project uses Swift 5.0. Xcode 10.2
+This project uses Swift 5.1.2. Xcode 11.2
 
 This SDK simplify the use of keys and functions. For example:
 
