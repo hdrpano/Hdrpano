@@ -1,4 +1,9 @@
-![swift 5.1.2](https://img.shields.io/badge/swift-5.1.2-green.svg) ![platform iOS](https://img.shields.io/badge/platform-iOS-lightgrey.svg) ![pod 1.1.8](https://img.shields.io/badge/pod-1.1.8-blue.svg) ![DJI SDK 4.11](https://img.shields.io/badge/DJI%20SDK-4.11-blue.svg) ![DJI DUX SDK 4.11](https://img.shields.io/badge/DJI%20DUX%20SDK-4.11-blue.svg) ![license MIT](https://img.shields.io/badge/license-MIT-green.svg) ![Aircrafts](https://img.shields.io/badge/Aircrafts-Inspire%20%7C%20Matrice%20%7C%20Mavic%20%7C%20Phantom%20%7C%20Spark-lightgrey.svg)
+![swift 5.2](https://img.shields.io/badge/swift-5.2-green.svg) 
+![platform iOS](https://img.shields.io/badge/platform-iOS-lightgrey.svg) 
+![pod 1.1.9](https://img.shields.io/badge/pod-1.1.9-blue.svg) 
+![DJI SDK 4.14](https://img.shields.io/badge/DJI%20SDK-4.14-blue.svg) 
+![DJI DUX SDK 4.14](https://img.shields.io/badge/DJI%20DUX%20SDK-4.14-blue.svg) 
+![license MIT](https://img.shields.io/badge/license-MIT-green.svg) ![Aircrafts](https://img.shields.io/badge/Aircrafts-Inspire%20%7C%20Matrice%20%7C%20Mavic%20%7C%20Phantom%20%7C%20Spark-lightgrey.svg)
 
 # DUX-iOS from hdrpano
 
@@ -10,7 +15,7 @@ DJI-SDK-iOS
 DJI-UXSDK-iOS 
 DJIWidget 
 
-This project uses Swift 5.1.2. Xcode 11.2
+This project uses Swift 5.2 Xcode 12
 
 This SDK simplify the use of keys and functions. For example:
 
@@ -87,10 +92,10 @@ If you install it successfully, you should get the messages similar to the follo
 
     Analyzing dependencies
     Downloading dependencies
-    Installing Hdrpano (1.1.0)
-    Installing DJI-SDK-iOS (4.10)
-    Installing DJI-UXSDK-iOS (4.10)
-    Installing DJIWidget (1.5)
+    Installing Hdrpano (1.1.9)
+    Installing DJI-SDK-iOS (4.14)
+    Installing DJI-UXSDK-iOS (4.14)
+    Installing DJIWidget (1.6.4)
     Generating Pods project
     Integrating client project
 
@@ -101,7 +106,6 @@ If you install it successfully, you should get the messages similar to the follo
 
     pod repo update
     pod install
-
 
 You can now import the framework in your swift file.
 
@@ -208,4 +212,4 @@ That will do it!
 If you will learn how to use it, watch my channel on YouTube
 
 ## The team
-This framework is supported from [hdrpano](http://hdrpano.ch/) only. You can find many tutorials on my YouTube [channel](https://www.youtube.com/c/KilianEisenegger)
+This framework is supported from [hdrpano](https://hdrpano.ch/) only. You can find many tutorials on my YouTube [channel](https://www.youtube.com/c/KilianEisenegger)
