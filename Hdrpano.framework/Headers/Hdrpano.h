@@ -2,11 +2,10 @@
 //  Hdrpano.h
 //  Hdrpano
 //
-//  Created by Kilian Eisenegger on 29.12.18.
-//  Copyright © 2018 Kilian Eisenegger. All rights reserved.
+//  Created by Kilian Eisenegger on 27.12.20.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 //! Project version number for Hdrpano.
 FOUNDATION_EXPORT double HdrpanoVersionNumber;
