@@ -12,7 +12,7 @@ The Hdrpano frameworks contains DJI SDK functions and mathematical functions for
 
 This SDK is based on DJI iOS SDK's 
 DJI-SDK-iOS 
-DJI-UXSDK-iOS 
+DJI-UXSDK-iOS
 DJIWidget 
 
 This project uses Swift 5.2 Xcode 12
