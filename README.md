@@ -1,4 +1,4 @@
-![swift 5.3](https://img.shields.io/badge/swift-5.3-green.svg) 
+![swift 5.4](https://img.shields.io/badge/swift-5.4-green.svg) 
 ![platform iOS](https://img.shields.io/badge/platform-iOS-lightgrey.svg) 
 ![pod 1.2.0](https://img.shields.io/badge/pod-1.2.0-blue.svg) 
 ![DJI SDK 4.14](https://img.shields.io/badge/DJI%20SDK-4.14-blue.svg) 
