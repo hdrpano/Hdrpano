@@ -1,7 +1,7 @@
-![swift 5.2](https://img.shields.io/badge/swift-5.2-green.svg) 
+![swift 5.5](https://img.shields.io/badge/swift-5.5-green.svg) 
 ![platform iOS](https://img.shields.io/badge/platform-iOS-lightgrey.svg) 
-![pod 1.1.9](https://img.shields.io/badge/pod-1.1.9-blue.svg) 
-![DJI SDK 4.14](https://img.shields.io/badge/DJI%20SDK-4.14-blue.svg) 
+![pod 1.2.1](https://img.shields.io/badge/pod-1.2.1-blue.svg) 
+![DJI SDK 4.15.2](https://img.shields.io/badge/DJI%20SDK-4.15.2-blue.svg) 
 ![DJI DUX SDK 4.14](https://img.shields.io/badge/DJI%20DUX%20SDK-4.14-blue.svg) 
 ![license MIT](https://img.shields.io/badge/license-MIT-green.svg) ![Aircrafts](https://img.shields.io/badge/Aircrafts-Inspire%20%7C%20Matrice%20%7C%20Mavic%20%7C%20Phantom%20%7C%20Spark-lightgrey.svg)
 
@@ -15,7 +15,7 @@ DJI-SDK-iOS
 DJI-UXSDK-iOS 
 DJIWidget 
 
-This project uses Swift 5.2 Xcode 12
+This project uses Swift 5.5 Xcode 13
 
 This SDK simplify the use of keys and functions. For example:
 
