@@ -15,7 +15,7 @@ DJI-SDK-iOS
 DJI-UXSDK-iOS 
 DJIWidget 
 
-This project uses Swift 5.5 Xcode 13
+This project uses Swift 5.5 Xcode 13. It is optimized for iOS 15
 
 This SDK simplify the use of keys and functions. For example:
 
