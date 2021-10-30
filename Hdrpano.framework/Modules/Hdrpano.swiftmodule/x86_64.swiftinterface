@@ -7,7 +7,7 @@ import Foundation
 import Swift
 import UIKit
 import _Concurrency
-@objc open class Hdrpano : ObjectiveC.NSObject {
+@objc open class hdrpano : ObjectiveC.NSObject {
   public init(key: Swift.String)
   public struct coor {
     public var lon: Swift.Double
