@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
+// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
 // swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name Hdrpano
 import DJISDK
 import Foundation
@@ -53,7 +53,7 @@ import _Concurrency
   open class func setAspectRatio(aspectRatio: DJISDK.DJICameraPhotoAspectRatio)
   open class func setOptimumRatio()
   open class func setFileFormat(fileFormat: DJISDK.DJICameraPhotoFileFormat = .RAW)
-  open class func setCameraMode(shootMode: DJISDK.DJICameraMode = .shootPhoto)
+  open class func setCameraMode(cameraMode: DJISDK.DJICameraMode = .shootPhoto)
   open class func setFocusModeAuto()
   open class func setFocusMode(focusMode: DJISDK.DJICameraFocusMode = .auto)
   open class func setShutterSpeed(shutterSpeed: DJISDK.DJICameraShutterSpeed)
