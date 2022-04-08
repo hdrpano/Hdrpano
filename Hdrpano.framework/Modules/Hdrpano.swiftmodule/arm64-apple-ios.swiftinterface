@@ -1,17 +1,12 @@
 // swift-interface-format-version: 1.0
-<<<<<<< Updated upstream
-// swift-compiler-version: Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
-=======
 // swift-compiler-version: Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
->>>>>>> Stashed changes
 // swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name Hdrpano
 import DJISDK
 import Foundation
-@_exported import Hdrpano
 import Swift
 import UIKit
 import _Concurrency
-@objc open class hdrpano : ObjectiveC.NSObject {
+@objc open class hdr : ObjectiveC.NSObject {
   public init(key: Swift.String)
   public struct coor {
     public var lon: Swift.Double
@@ -57,7 +52,7 @@ import _Concurrency
   open class func setAspectRatio(aspectRatio: DJISDK.DJICameraPhotoAspectRatio)
   open class func setOptimumRatio()
   open class func setFileFormat(fileFormat: DJISDK.DJICameraPhotoFileFormat = .RAW)
-  open class func setCameraMode(shootMode: DJISDK.DJICameraMode = .shootPhoto)
+  open class func setCameraMode(cameraMode: DJISDK.DJICameraMode = .shootPhoto)
   open class func setFocusModeAuto()
   open class func setFocusMode(focusMode: DJISDK.DJICameraFocusMode = .auto)
   open class func setShutterSpeed(shutterSpeed: DJISDK.DJICameraShutterSpeed)

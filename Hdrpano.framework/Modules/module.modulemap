@@ -1,11 +1,4 @@
 framework module Hdrpano {
-  umbrella header "Hdrpano.h"
-
-  export *
-  module * { export * }
-}
-
-module Hdrpano.Swift {
-    header "Hdrpano-Swift.h"
-    requires objc
+  header "Hdrpano-Swift.h"
+  requires objc
 }
