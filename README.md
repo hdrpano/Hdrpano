@@ -29,7 +29,7 @@ Together they provide a fully local, professional workflow for:
 
 # map-creator
 
-![map-creator](images/map-creator.png)
+![map-creator](https://github.com/hdrpano/map-creator/images/map-creator.png)
 
 ## Advanced DJI Mission Planning
 
