@@ -87,7 +87,7 @@ https://map-creator.com
 
 # DJIKMZInjector
 
-![DJIKMZInjector](img/MacOS.png)
+![DJIKMZInjector](https://github.com/hdrpano/DJI-KMZ-Injector/blob/main/img/MacOS.png))
 
 ## Direct DJI Mission Management
 
